@@ -1,0 +1,45 @@
+#pickup{
+    width: 265px;
+    height: 30px;
+    background-color: rgba(0,0,0,0.1);
+    border:none;
+    border-radius: 5px;
+    display: block;
+    margin-right: 2px;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 5px;
+}
+
+#destination{
+    width: 265px;
+    height: 30px;
+    background-color: rgba(0,0,0,0.1);
+    border:none;
+    border-radius: 5px;
+    display: block;
+    margin-right: 2px;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 5px;
+}
+
+.request{
+    display: inline-block;
+    background-color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 15px;
+    color: white;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.schedule{
+    background-color: rgba(0,0,0,0.1);
+    color: black;
+    font-weight: bold;
+    border: none;
+    display: inline-block;
+    padding: 15px;
+    cursor: pointer;
+}

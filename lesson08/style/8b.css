@@ -1,0 +1,17 @@
+main{
+    font-weight: bold;
+}
+
+p{
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.yes{
+    display: inline-block;
+    font-weight: bold;
+}
+.no{
+    display: inline-block;
+    font-weight: bold;
+}

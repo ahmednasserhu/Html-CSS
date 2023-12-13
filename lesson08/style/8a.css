@@ -1,0 +1,17 @@
+#name{
+    color: #888888;
+    display: block;
+    width: 150px;
+    height: 20px;
+    border: 1px solid rgba(0,0,0,0,.5);
+    margin-bottom: 3px;
+}
+
+#email{
+    color: #888888;
+    display: block;
+    width: 150px;
+    height: 20px;
+    border: 1px solid rgba(0,0,0,0,.5);
+    margin-bottom: 3px;
+}

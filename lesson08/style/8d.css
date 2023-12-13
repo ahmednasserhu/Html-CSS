@@ -1,0 +1,44 @@
+#fname{
+    width: 125px;
+    height: 30px;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius: 5px;
+    display: inline;
+    margin-right: 2px;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 5px;
+}
+
+#lname{
+    width: 125px;
+    height: 30px;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 2px;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 5px;
+}
+
+#email{
+    width: 265px;
+    height: 30px;
+    border: 1px solid rgba(0,0,0,0.5);
+    border-radius: 5px;
+    display: block;
+    margin-right: 2px;
+    color: rgba(0,0,0,0.5);
+    margin-bottom: 5px;
+}
+
+.signup{
+    width: 265px;
+    height: 45px;
+    background-color: #1a8cd8;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+}

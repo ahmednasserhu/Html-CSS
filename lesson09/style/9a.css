@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+div{
+    background-color: red;
+    width: 600px;
+    height: 400px;
+}

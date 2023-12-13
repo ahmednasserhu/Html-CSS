@@ -1,0 +1,33 @@
+div{
+    width: 250px;
+    height: 280px;
+    border: 2px solid rgba(0,0,0,0.2);
+    position: relative;
+    background-color: white;
+}
+
+img{
+    width: 250px;
+    height: 140px;
+}
+
+.name{
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.mutual{
+    color: #828383;
+    margin-left: 8px;
+}
+
+.add{
+    background-color: #3975EA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 110px;
+    padding: 7px;
+    margin-left: 8px;
+    cursor: pointer;
+}

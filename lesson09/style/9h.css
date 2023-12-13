@@ -1,0 +1,43 @@
+div{
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#googlesearchbox{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 40px;
+    border: none;
+    display: block;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+.search{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #F5F5F5;
+    color: black;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.button{
+    margin-left: 20px;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: #F5F5F5;
+    color: black;
+    padding: 20px;
+    border: none;
+    cursor: pointer;
+}

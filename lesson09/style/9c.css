@@ -1,0 +1,29 @@
+div{
+    width: 300px;
+    height: 125px;
+    border: 1px solid rgba(0,0,0,0.5);
+    background-color: white;
+    position: relative;
+}
+
+p{
+    font-weight: bold;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    display: block;
+}
+
+.yes{
+    position: absolute;
+    top: 60px;
+    left: 15px;
+    cursor: pointer;
+}
+
+.no{
+    position: absolute;
+    top: 60px;
+    left: 75px;
+    cursor: pointer;
+}

@@ -1,0 +1,69 @@
+.parent{
+    width: 800px;
+    height: 290px;
+    display: flex;
+    border: none;
+    position: relative;
+    background-color: white;
+}
+
+
+#div1{
+    width: 250px;
+    height: 280px;
+    border: 2px solid rgba(0,0,0,0.2);
+    position: relative;
+    display: inline-block;
+    margin-left:3px ;
+    margin-top: 3px;
+    background-color: white;
+}
+
+#div2{
+    width: 250px;
+    height: 280px;
+    border: 2px solid rgba(0,0,0,0.2);
+    position: relative;
+    display: inline-block;
+    margin-left:3px ;
+    margin-top: 3px;
+    margin-left: 15px;
+    background-color: white;
+}
+#div3{
+    width: 250px;
+    height: 280px;
+    border: 2px solid rgba(0,0,0,0.2);
+    position: relative;
+    display: inline-block;
+    margin-left:3px ;
+    margin-top: 3px;
+    margin-left: 15px;
+    background-color: white;
+}
+
+img{
+    width: 250px;
+    height: 140px;
+}
+
+.name{
+    font-weight: bold;
+    margin-left: 8px;
+}
+
+.mutual{
+    color: #828383;
+    margin-left: 8px;
+}
+
+.add{
+    background-color: #3975EA;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 110px;
+    padding: 7px;
+    margin-left: 8px;
+    cursor: pointer;
+}
