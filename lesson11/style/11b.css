@@ -1,0 +1,18 @@
+div{
+    display: flex;
+}
+
+#div1{
+    width: 50px;
+    background-color: #B6D7E3;
+}
+
+#div2{
+    width: 250px;
+    background-color: #F4B9C1;
+}
+
+#div3{
+    width: 75px;
+    background-color: #B6D7E3;
+}

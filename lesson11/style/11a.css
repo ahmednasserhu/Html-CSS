@@ -1,0 +1,13 @@
+div{
+    display: flex;
+}
+
+#div1{
+    width: 200px;
+    background-color: #B6D7E3;
+}
+
+#div2{
+    width: 75px;
+    background-color: #F4B9C1;
+}

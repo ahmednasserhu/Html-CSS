@@ -1,0 +1,10 @@
+div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.childdiv{
+    width: 50px;
+    background-color: #F4B9C1;
+    margin-right: 200px;
+}

@@ -1,0 +1,27 @@
+#parentDiv{
+    width: 400px;
+    display: block;
+    border: 2px solid grey;
+    border-radius: 15px;
+    padding: 15px;
+}
+
+.child{
+    display: flex;
+    justify-content: space-between;
+}
+
+p{
+    font-size: bolder;
+}
+
+.circle {
+    border-radius: 35%;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    background-color: #416CEC;
+    border: 1px solid #00000062;
+    color: white;
+    text-align: center;
+  }

@@ -1,0 +1,32 @@
+#parentDiv{
+    width: 1000px;
+    display: flex;
+    background-color: #7153AC;
+    padding: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-weight: bolder;
+    margin-right: 100px;
+    color: white;
+}
+
+#Search{
+    width: 600px;
+    height: 30px;
+    border-radius: 25px;
+    margin-right: 120px;
+    border: none;
+    padding: 10px;
+    color: grey;
+}
+
+button{
+    background-color: #7153AC;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    cursor: pointer;
+    font-weight: bolder;
+}
